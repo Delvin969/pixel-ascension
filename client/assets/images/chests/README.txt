@@ -1,0 +1,1 @@
+Taruh gambar peti harta di folder ini.\n

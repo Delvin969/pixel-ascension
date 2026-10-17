@@ -1,0 +1,1 @@
+Taruh sprite monster di folder ini.\n

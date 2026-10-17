@@ -1,0 +1,1 @@
+Taruh gambar senjata di folder ini.\n

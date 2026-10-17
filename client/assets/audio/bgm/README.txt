@@ -1,0 +1,1 @@
+Taruh musik latar MP3/OGG di folder ini.\n

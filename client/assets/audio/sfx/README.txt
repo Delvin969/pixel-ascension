@@ -1,0 +1,1 @@
+Taruh efek suara MP3/OGG di folder ini.\n

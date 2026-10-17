@@ -1,0 +1,1 @@
+Taruh sprite karakter pemain di folder ini.\n
